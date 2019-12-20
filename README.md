@@ -1,4 +1,4 @@
-#Turing Machine
+# Turing Machine
 
 A Swift implementation of the Turing Machine.
 
